@@ -1,0 +1,4 @@
+{
+  // probe pet config
+  "animations": { "idle": ["idle"], "clicks": ["wave"] },
+}
